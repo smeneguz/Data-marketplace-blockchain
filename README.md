@@ -22,3 +22,9 @@ npm install
 npm start
 
 This will start the development server under http://localhost:8000.
+
+
+####### IMPORTANT ####
+This is the start point where i start to develop the data marketplace based on DLT.
+The custom and complete project is on going and private.
+
